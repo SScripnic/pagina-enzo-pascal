@@ -50,3 +50,9 @@ Confira o arquivo enzo-pascal.html com tag footer
 Confira o arquivo enzo-pascal.css com classe rodape
 
 [Aula Desvendando o CSS: Tag Semântica, Pseudo-Classe e Caracteres Especiais](https://l.dev.pro.br/tag-semantica)
+
+## Passo 9: Aula Letras com Estilo: Dominando as Fontes no Desenvolvimento Web 
+Confira o arquivo enzo-pascal.html com import de fonte da web
+Confira o arquivo enzo-pascal.css com font family Montserrat
+
+[Aula Letras com Estilo: Dominando as Fontes no Desenvolvimento Web](https://l.dev.pro.br/fontes-web)
